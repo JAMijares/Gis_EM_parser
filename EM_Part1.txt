@@ -1,0 +1,2 @@
+density=10
+material=ABS
